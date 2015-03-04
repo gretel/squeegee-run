@@ -1,0 +1,788 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chef",
+				"chef_type"
+			],
+			[
+				"zk",
+				"zk_this_host"
+			],
+			[
+				"zk_",
+				"zk_prefix"
+			],
+			[
+				"user",
+				"user_data"
+			],
+			[
+				"ro",
+				"route53_record"
+			],
+			[
+				"in",
+				"invoke_monit"
+			],
+			[
+				"STA",
+				"START_CMD=\"nohup"
+			],
+			[
+				"depl",
+				"deploy_config"
+			],
+			[
+				"HEA",
+				"HEADINGTEXT"
+			],
+			[
+				"dynamo-au",
+				"dynamo-autoscale-fork"
+			],
+			[
+				"dynam",
+				"dynamo-autoscale"
+			],
+			[
+				"dynamo",
+				"dynamo-autoscale-fork"
+			],
+			[
+				"ser",
+				"service_name"
+			],
+			[
+				"eye",
+				"eye_executable"
+			],
+			[
+				"LOG_",
+				"DEFAULT_LOG_LEVEL"
+			],
+			[
+				"logger",
+				"logger_level"
+			],
+			[
+				"log",
+				"log_level_aws"
+			],
+			[
+				"log_leve",
+				"log_level_aws"
+			],
+			[
+				"aws",
+				"aws"
+			],
+			[
+				"STD",
+				"STDERR"
+			],
+			[
+				"da",
+				"data_dir"
+			],
+			[
+				"RUn",
+				"RuntimeError"
+			],
+			[
+				"dyna",
+				"dynamo-autoscale"
+			],
+			[
+				"dyn",
+				"dynamo-autoscale"
+			],
+			[
+				"dy",
+				"dynamo-autoscale"
+			],
+			[
+				"rel",
+				"real"
+			],
+			[
+				"ru",
+				"ruleset_location"
+			],
+			[
+				"ins",
+				"inspect"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"che",
+				"check_ruleset"
+			],
+			[
+				"Dyn",
+				"DynamoAutoscale"
+			],
+			[
+				"ruleset",
+				"rulesets_dir"
+			],
+			[
+				"local",
+				"local_path"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"dry",
+				"dry_run"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				" beau",
+				"BeautifyRuby"
+			],
+			[
+				"bea",
+				"BeautifyRuby"
+			],
+			[
+				"beaut",
+				"BeautifyRuby"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"quot",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"quote",
+				"ChangeQuotes"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"beau",
+				"BeautifyRuby"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"theme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"folder",
+				"Package Syncing: Define Sync Folder"
+			],
+			[
+				"disab",
+				"Package Syncing: Disable Syncing"
+			],
+			[
+				"sync",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"package",
+				"Package Syncing: Define Sync Folder"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/vw",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/vw/definitions"
+	],
+	"file_history":
+	[
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/vw/definitions/winbox/definition.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/vw/definitions/winbox/Autounattend.xml",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/vw/definitions/winbox/run-chef.bat",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/vw/definitions/winbox/Vagrantfile",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SC-win-run/recipes/default.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SC-win-run/recipes/boxstarter.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SC-win-run/attributes/default.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SC-win-run/Veeweefile",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SC-win-run/.gitignore",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SC-win-run/README.md",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SC-win-run/templates/default/definition.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SC-win-run/Gemfile",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SC-win-run/recipes/provision.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SC-win-run/metadata.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/metadata.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/attributes/default.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/.gitignore",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/vw/definitions/winbox/run-puppet.bat",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/Gemfile",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/.git/COMMIT_EDITMSG",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/.git/config",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/templates/default/definition.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/templates/default/Autounattend.xml.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/vw/definitions/winbox/install-chocolatey.bat",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/recipes/prepare.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/vw/definitions/winbox/chocolatey.ps1",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/Veeweefile",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/recipes/provision.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/win-dev/recipes/default.rb",
+		"/Users/tom/Sync/prjcts/Adobe/windows-chef-dev/winbox/definitions/winbox/Autounattend.xml",
+		"/Users/tom/Sync/prjcts/Adobe/windows-chef-dev/README.md",
+		"/Users/tom/Sync/prjcts/Adobe/windows-chef-dev/winbox/definitions/winbox/install-chef.bat",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/metadata.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/templates/default/exhibitor_init.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/recipes/ec2.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/recipes/route53.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/attributes/default.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/recipes/deploy.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/recipes/service.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/recipes/default.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/templates/default/exhibitor.properties.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/.kitchen/logs/default-ami-2014091.log",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/recipes/monit.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/recipes/discovery.rb",
+		"/Applications/MAX!.app/Contents/Info.plist",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/Gemfile",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/recipes/packages.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/templates/default/web.xml.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/templates/default/monit_exhibitor.conf.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/providers/monit.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/templates/default/monit.conf.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/resources/monit.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/resources/process.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/templates/default/log4j.properties.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/templates/default/dot_profile.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/.kitchen.local.yml",
+		"/Users/tom/Sync/prjcts/exhibitor/gradlew",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/chefignore",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/SCZookeeper/.gitignore",
+		"/Users/tom/Sync/prjcts/exhibitor/build.gradle",
+		"/Users/tom/.config/fish/config.fish",
+		"/Users/tom/.oh-my-fish/templates/config.fish",
+		"/Users/tom/.oh-my-fish/oh-my-fish.fish",
+		"/Users/tom/.chef/knife.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/DynamoAutoScale/scale-dynamodb.sublime-project",
+		"/Applications/tvbrowser-transportable/tvbrowser-transportable-mac.sh",
+		"/Applications/tvbrowser-transportable/tvbrowser-transportable.sh",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/recipes/deploy.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/recipes/run.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/templates/default/ruleset_template.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/attributes/default.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/Gemfile",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/Guardfile",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/metadata.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/templates/default/dynamo-autoscale-fork.yml.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/DynamoAutoScale/templates/default/ruleset_template.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/recipes/packages.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/.kitchen.local.yml",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/recipes/nokogiri-gem.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/recipes/default.rb",
+		"/Users/tom/.ssh/config",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/files/default/dynamo-autoscale-fork-0.5.1.gem",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/templates/default/ruleset_template.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/README.md",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/files/default/dynamo-autoscale-fork-0.4.4.gem",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/templates/default/init.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/files/default/dynamo-autoscale-0.4.2.2.gem",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/files/default/dynamo-autoscale-0.4.2.1.gem",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/templates/default/dynamo-autoscale.eye.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/templates/default/dot_profile",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/templates/default/eye_init.erb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/recipes/supervisor.rb",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/files/default/dot_profile",
+		"/Users/tom/Sync/prjcts/kitchen/cookbooks/dynamo-autoscale-cookbook/templates/default/dynamo-autoscale.yml.erb",
+		"/Users/tom/bin/update.sh",
+		"/Users/tom/.direnvrc",
+		"/Users/tom/.oh-my-fish/.config/fish/config.fish",
+		"/Users/tom/.oh-my-fish/custom/plugins/pyenv/pyenv.load",
+		"/Users/tom/.envrc",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/lib/dynamo-autoscale/logger.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/bin/dynamo-autoscale",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/config/environment/common.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/lib/dynamo-autoscale/cli.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/lib/dynamo-autoscale/cw_poller.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/config/dynamo-autoscale.yml",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/Rakefile",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/config/services/signals.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/config/services/aws.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/config/services/logger.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/config/dynamo-autoscale.sample.yml",
+		"/Users/tom/.gitignore_global",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/dynamo-autoscale.gemspec",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/build.sh",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/spec/spec_helper.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/lib/dynamo-autoscale/actioner.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/lib/dynamo-autoscale/local_data_poll.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/lib/dynamo-autoscale/version.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/converge.sh",
+		"/Users/tom/.gem/ruby/2.1.4/gems/bundler-1.7.6/lib/bundler/rubygems_integration.rb",
+		"/Users/tom/.slate",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/vendor/bundle/ruby/2.1.0/gems/state_machine-1.2.0/examples/merb-rest/view_edit.html.erb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/.idea/vcs.xml",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/Gemfile",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/.gitignore",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/lib/dynamo-autoscale/table_tracker.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/lib/dynamo-autoscale/rule_set.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/lib/dynamo-autoscale/alarms.rb",
+		"/Users/tom/Sync/prjcts/dynamo-autoscale/lib/dynamo-autoscale/local_actioner.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			".",
+			"definition.rb",
+			".",
+			"*",
+			".",
+			"*",
+			".",
+			"*",
+			".",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"passw",
+			"app[",
+			"timeout",
+			"core",
+			"hostio",
+			"\"",
+			"Power",
+			"passw",
+			"post",
+			"name",
+			"cert",
+			"Adobe",
+			"puppe",
+			"chef",
+			"           -",
+			"only_if",
+			"zk_this_host",
+			"user_data",
+			"zk_hostname",
+			"zk_list",
+			"zk_prefix",
+			"ipadd",
+			".env",
+			"instance_id",
+			"depends 'cloudops'",
+			"service_start",
+			"conf_path",
+			"restart",
+			"stop",
+			"_conf",
+			"# ",
+			"#    ",
+			"service_init_file",
+			"require_recipe",
+			"log",
+			"  \n",
+			"TODO",
+			"bin",
+			"prop",
+			"\"",
+			"-9",
+			"jar_file",
+			"jar_source",
+			"zookeper",
+			"jar_source",
+			".kit",
+			"Copyright 2014",
+			"SERVICE_RUNAS",
+			"fail",
+			"ruleset_template",
+			"ruleset",
+			"%{",
+			"'ruleset",
+			"\"ruleset",
+			"'ruleset",
+			":ruleset",
+			"app['ruleset']",
+			"#{",
+			"logf",
+			"Github",
+			"GithubGit",
+			"Github",
+			"_aws",
+			"aws_",
+			":app_config",
+			"app_config",
+			"only",
+			"service_file",
+			"eye_config_file",
+			"eye_template",
+			"eye_env_path",
+			"log_level",
+			"puts",
+			"inspect",
+			"$dry",
+			"dry",
+			"puts",
+			"log_level",
+			"options are",
+			"level",
+			"levels",
+			"exit",
+			"exit -",
+			"signals",
+			"$log_level",
+			"logger",
+			"production",
+			"output",
+			"production",
+			"Logger",
+			"logger",
+			"dry",
+			"pretty",
+			"dry",
+			"dry_run",
+			"$_",
+			"[CLI]",
+			"TIME",
+			"exit",
+			"EXIT",
+			"mkdir",
+			"do_poll",
+			"warn",
+			"notice",
+			".json",
+			"rescue",
+			"poll",
+			"CWPoller",
+			"logger",
+			"setup]",
+			"logger",
+			"data_dir",
+			"DynamoAutoscale.data_dir",
+			"data",
+			"ripl",
+			"logger",
+			"scaling up",
+			"notice",
+			"ScaleReport",
+			"timecop",
+			"prof",
+			"ruby-prof",
+			"LocalDa",
+			"LocalDataPoll",
+			"load",
+			"expand",
+			"require",
+			"load"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"config[",
+			"'",
+			"",
+			"s3_file \"/tmp/somefile\" do\n  remote_path \"/my/s3/key\"\n  bucket \"my-s3-bucket\"\n  s3_url \"https://s3.amazonaws.com/bucket\"\n  owner \"me\"\n  group \"mygroup\"\n  mode \"0644\"\n  action :create\n  decryption_key \"my SHA256 digest key\"\n  decrypted_file_checksum \"SHA256 hex digest of decrypted file\"\nend\n",
+			"zk_id",
+			"zk_this_host",
+			"servers_spec",
+			"zh_host_prfx",
+			"config_path",
+			"",
+			"exhibitor_jar_file",
+			"jar_file",
+			"Copyright 2015",
+			"SERVICE_USER",
+			"#{",
+			"%{",
+			"service_init_file",
+			"app_eye_config_file",
+			"app_eye_template",
+			"service_env_path",
+			"$logger_level",
+			"[main]",
+			"common]",
+			"--config PATH"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 169.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "win-dev.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"deplo",
+				"recipes/deploy.rb"
+			],
+			[
+				"logg",
+				"lib/dynamo-autoscale/logger.rb"
+			],
+			[
+				"commo",
+				"config/environment/common.rb"
+			],
+			[
+				"cli",
+				"lib/dynamo-autoscale/cli.rb"
+			],
+			[
+				"dyn",
+				"bin/dynamo-autoscale"
+			],
+			[
+				"comm",
+				"config/environment/common.rb"
+			],
+			[
+				"logge",
+				"config/services/logger.rb"
+			],
+			[
+				"sign",
+				"config/services/signals.rb"
+			],
+			[
+				"vers",
+				"lib/dynamo-autoscale/version.rb"
+			],
+			[
+				"cw",
+				"lib/dynamo-autoscale/cw_poller.rb"
+			],
+			[
+				"gemspe",
+				"dynamo-autoscale.gemspec"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"rule",
+				"spec/rule_set_spec.rb"
+			],
+			[
+				"aws",
+				"config/services/aws.rb"
+			],
+			[
+				"tes",
+				"config/environment/test.rb"
+			],
+			[
+				"common",
+				"config/environment/common.rb"
+			],
+			[
+				"scale",
+				"lib/dynamo-autoscale/scale_report.rb"
+			],
+			[
+				"omm",
+				"config/environment/common.rb"
+			],
+			[
+				"",
+				".travis.yml"
+			],
+			[
+				"email",
+				"templates/scale_report_email.erb"
+			],
+			[
+				"daem",
+				"lib/dynamo-autoscale/daemon.eye"
+			],
+			[
+				"subl",
+				"plugins/sublime/subl.fish"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
