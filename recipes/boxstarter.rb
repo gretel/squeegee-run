@@ -8,5 +8,6 @@ boxstarter 'boxstarter run' do
   code <<-EOH
     Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar
     cinst cygwin
+    cinst cyg-get
   EOH
 end
